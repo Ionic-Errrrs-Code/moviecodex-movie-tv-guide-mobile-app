@@ -189,6 +189,6 @@ This is a closed-source project. For inquiries, please contact the development t
   
   Made with ❤️ by [Ionic Errrrs Code](https://github.com/Ionic-Errrrs-Code)
   
-  © 2024 MovieCodex. All Rights Reserved.
+  © 2026 MovieCodex. All Rights Reserved.
   
 </div>
