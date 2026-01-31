@@ -27,7 +27,7 @@
 
 MovieCodex is a comprehensive mobile application that brings the world of cinema to your fingertips. Built with Flutter and following clean architecture principles, this app provides detailed information about movies and TV shows, complete with real-time updates, trailers, cast details, and much more.
 
-With seamless integration of multiple APIs (TMDB, IMDB, and Rotten Tomatoes), MovieCodex offers an unparalleled experience for movie enthusiasts, allowing you to explore, discover, and track your favorite content.
+With seamless integration of TMDB API, MovieCodex offers an unparalleled experience for movie enthusiasts, allowing you to explore, discover, and track your favorite content.
 
 ## ✨ Features
 
@@ -46,7 +46,6 @@ With seamless integration of multiple APIs (TMDB, IMDB, and Rotten Tomatoes), Mo
 <td width="50%">
 
 ### 🎭 Enhanced Details
-- IMDB scraping for missing details
 - Cast and crew information
 - Budget and revenue data
 - Production companies
@@ -71,8 +70,7 @@ With seamless integration of multiple APIs (TMDB, IMDB, and Rotten Tomatoes), Mo
 - Latest trailers
 - Inbuilt trailer player
 - Upcoming content
-- IMDB ratings
-- Rotten Tomatoes scores
+- TMDB ratings
 
 </td>
 </tr>
@@ -123,7 +121,7 @@ With seamless integration of multiple APIs (TMDB, IMDB, and Rotten Tomatoes), Mo
 - **Flutter** - Cross-platform mobile development
 - **Clean Architecture (MVVM)** - Maintainable and scalable code structure
 - **State Management** - Efficient app state handling
-- **REST API Integrations** - TMDB, IMDB, Rotten Tomatoes
+- **REST API Integrations** - TMDB
 - **Dio** - Advanced HTTP client for API calls
 - **Play Store** - Available for Android users
 
@@ -154,7 +152,7 @@ With seamless integration of multiple APIs (TMDB, IMDB, and Rotten Tomatoes), Mo
 - 📚 **Complete Database** - Handling all movies/TV shows ever created
 
 ### Solutions Implemented:
-- ✅ **Multi-API Integration** - Combined TMDB, IMDB, and Rotten Tomatoes
+- ✅ **API Integration** -  TMDB
 - ✅ **MovieCodex API** - Custom API for efficient data handling
 - ✅ **Clean Architecture** - Optimized for real-time data performance
 - ✅ **Fast Cache System** - Improved response times and offline access
